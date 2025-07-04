@@ -1,6 +1,19 @@
 # 💫 About Me:
 👋 Hi, I'm Fares!  
-**🚀 Full-Stack Web Developer** based in **Alexandria, Egypt** with **3+ years** of experience building robust web solutions. Passionate about algorithmic problem-solving and ethical hacking. Currently expanding my skills in 5 new languages/frameworks while developing [Omnibite](https://github.com/kinghtmare/omnibite) and other projects.
+**🚀 Full-Stack Web Developer** based in **Alexandria, Egypt** with **3+ years** of experience in web development and problem solving.  
+
+I'm currently building **[Omnibite](https://github.com/kinghtmare/omnibite)** (a web platform) and other projects while actively seeking:  
+- Collaborations with **Hack Clubs** (open-source, community-driven tech)  
+- Participation in **ICPC contests** (advanced algorithms & teamwork)  
+
+## 🌱 Currently Deepening My Skills In:
+1. **Ethical Hacking** (security audits, vulnerability testing)  
+2. **Algorithmic Structures** (optimization for scalability)  
+
+## 🛠️ Current Learning Stack:
+- **5 programming languages** + modern frameworks (React, Django, etc.)  
+- **Developer tools** (Docker, Git, CI/CD pipelines)  
+*(Ask me about my tech stack or web-dev challenges!)*  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alpharizz1269) 
@@ -22,19 +35,13 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# 🔥 Current Focus:
-- Competitive Programming (ICPC-style challenges)
-- Ethical Hacking/Cybersecurity
-- Optimizing full-stack architectures
-- Contributing to Hack Clubs projects
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kinghtmare&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kinghtmare&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghtmare&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## ✨ Fun Fact:
-> Your smartphone has **more computing power** than NASA's guidance computer during the Apollo 11 moon landing!
+## 💡 Fun Fact:
+> The technology in your *smartphone* is **more advanced** than the technology used in the first rocket that landed on the moon!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kinghtmare&icon=3&color=0)](https://visitcount.itsvg.in)
